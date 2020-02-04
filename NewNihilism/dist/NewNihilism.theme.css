@@ -833,9 +833,6 @@ input[type="checkbox"]:checked + span::after {
 .emojiPicker-3m1S-j .scroller-3vODG7.containerWithInfoBar-2acjZU {
   height: 300px;
 }
-.emojiPicker-3m1S-j .infoBar-U6oBFk {
-  display: none;
-}
 .emojiPicker-3m1S-j .categories-1feg4n,
 .emojiPicker-3m1S-j .categories-1feg4n .item-16cXuq {
   height: 28px;
