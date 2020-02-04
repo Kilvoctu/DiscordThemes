@@ -204,10 +204,20 @@
   height: auto;
   max-width: 35px !important;
 }
-.reaction-1ELvT8 .emoji {
+.reaction-1hd86g .reactionMe-wv5HKu {
+  display: none;
+}
+.reaction-1hd86g .reactionInner-15NvIl {
+  margin: 2px 0;
+  display: block;
+}										
+.reaction-1hd86g .emoji {
   width: 25px;
   height: auto;
   margin: 2px 0;
+}
+.reaction-1hd86g .reactionCount-2mvXRV {
+  margin: 0;
 }
 .small-popout-box {
   background: #333;
